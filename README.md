@@ -44,8 +44,6 @@ Este repositório faz parte do meu portfólio como estudante e entusiasta em Ci�
 
 ## 📬 Contato
 
-Fique à vontade para entrar em contato ou conectar-se comigo:
-
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
 - 📧 fabiooliveira0067@gmail.com
 

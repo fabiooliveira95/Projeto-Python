@@ -1,34 +1,54 @@
-# Portfólio de Projetos  
+# 🐍 Projeto Python – Portfólio de Projetos
 
-Bem-vindo ao meu repositório de projetos! Aqui você encontrará uma coleção de trabalhos que desenvolvi nas áreas de **Python**.  
+Bem-vindo ao meu repositório de projetos desenvolvidos com Python!  
+Aqui você encontrará exemplos práticos voltados para manipulação de dados, estruturas fundamentais da linguagem e uso de banco de dados com SQLite.
 
-## Índice  
-1. [Projetos de Base de dados](#projetos-de-Base-de-Dados)  
-2. [Projetos de Estrutura de Dados](#projetos-de-Estrutura_de_Dados)
+---
 
-## Projetos Base de Dados
+## 📁 Projetos
 
-### [criando e manipulando um banco de dados SQLite usando Python.]
-**Descrição:** Este projeto é um exemplo de como utilizar o módulo sqlite3 em Python para criar e manipular um banco de dados SQLite.  
-**Tecnologias:** Python e Sql  
-**Principais Destaques:**  
-- Uso de SQLite: O repositório demonstra como criar e manipular bancos de dados SQLite usando o módulo sqlite3 do Python
-- Criação de Tabelas: O script Base de dados.py cria várias tabelas como Nome, Cidades, Salarios, Datanascimento,
-  folhapagamento, departamento, lista e nomesdepartamento.
+### 1. 💾 Banco de Dados com SQLite
 
+**Descrição:**  
+Este projeto demonstra como criar e manipular um banco de dados SQLite utilizando o módulo `sqlite3` do Python.
 
+**Principais funcionalidades:**
+- Criação de tabelas como `Nome`, `Cidades`, `Salarios`, `Departamentos`, entre outras
+- Inserção e consulta de dados via comandos SQL
+- Operações de leitura, atualização e exclusão de dados
 
-  ## Projetos Estrutura de Dados  
+📂 Arquivo: [`Base de dados.py`](Base%20de%20dados.py)
 
-### [manipulação de dados em Python, incluindo operações com listas, tuplas, conjuntos e strings.]  
-**Descrição:** Este projeto contém um script em Python que realiza diversas operações de entrada de dados, cálculos e manipulação de estruturas de dados como listas, tuplas, conjuntos e dicionários. 
-**Tecnologias:** Python.  
-**Principais Destaques:**  
-- Operações com Estruturas de Dados: Exemplos de manipulação de listas, tuplas, conjuntos e dicionários em Python.  
-- Cálculo da média das idades e identificação do homem mais velho:
-- Utilização de listas, tuplas e conjuntos:
-- Manipulação de strings:
-- Funções para execução múltipla:
-- Funções de soma e impressão:
-- Entrada de dados e manipulação de strings:
-- 
+---
+
+### 2. 📊 Estrutura de Dados em Python
+
+**Descrição:**  
+Script focado na prática com estruturas fundamentais do Python como listas, tuplas, conjuntos, dicionários e strings.
+
+**Funcionalidades:**
+- Entrada e manipulação de dados
+- Cálculos com listas e média de valores
+- Identificação de condições específicas (como o homem mais velho)
+- Demonstração prática da versatilidade do Python
+
+📂 Arquivo: [`Estrutura_de_Dados.py`](Estrutura_de_Dados.py)
+
+---
+
+## 🎯 Objetivo
+
+Este repositório faz parte do meu portfólio como estudante e entusiasta em Ciência de Dados, e tem como objetivo demonstrar meu progresso e aprendizado contínuo com a linguagem Python aplicada à análise e manipulação de dados.
+
+---
+
+## 📬 Contato
+
+Fique à vontade para entrar em contato ou conectar-se comigo:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-ds/)
+- 📧 fabiooliveira.ds@gmail.com
+
+---
+
+⭐ Se você gostou do projeto, deixe uma estrela no repositório!

@@ -46,9 +46,7 @@ Este repositório faz parte do meu portfólio como estudante e entusiasta em Ci�
 
 Fique à vontade para entrar em contato ou conectar-se comigo:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-ds/)
-- 📧 fabiooliveira.ds@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
+- 📧 fabiooliveira0067@gmail.com
 
 ---
-
-⭐ Se você gostou do projeto, deixe uma estrela no repositório!
